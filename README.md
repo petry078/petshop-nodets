@@ -7,3 +7,5 @@ npm i -g nodemon typescript ts-node
 npm i
 npm run start
 ```
+
+https://www.invertexto.com/noqu79
