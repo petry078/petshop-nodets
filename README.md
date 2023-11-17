@@ -8,4 +8,4 @@ npm i
 npm run start
 ```
 
-https://www.invertexto.com/noqu79
+https://www.invertexto.com/petry078
