@@ -1,13 +1,13 @@
 import { Router } from "express";
-import * as pageController from '../controllers/pageControllers'
-import * as searchController from '../controllers/searchController'
+import * as pageControllers from '../controllers/pageController'
+import * as searchControllers from '../controllers/searchController'
 
 const router = Router()
 
-router.get('/', pageController.home)
-router.get('/dogs', pageController.dogs)
-router.get('/cats', pageController.cats)
-router.get('/fishes', pageController.fishes)
-router.get('/search', searchController.search)
+router.get('/',pageControllers.home)
+router.get('/dogs', pageControllers.dogs)
+router.get('/cats', pageControllers.cats)
+router.get('/fishes', pageControllers.fish)
+router.get('/search',searchControllers.search)
 
 export default router

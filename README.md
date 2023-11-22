@@ -1,11 +1,12 @@
-# petshop-nodets
+# Projeto Petshop 
+Projeto desenvolvido em nodejs com express 
 
-Fullstack petshop application with **Node.js**, **Express.js**, **Mustache.js** (mustache-express), **TypeScript**, **HTML**, and **CSS**.
+### Pré-requisitos globais:
+`npm i -g nodemon typescript ts-node`
 
-```
-npm i -g nodemon typescript ts-node
-npm i
-npm run start
-```
 
-https://www.invertexto.com/petry078
+### Instalação
+`npm install`
+
+### Para executar o projeto
+`npm run start-dev`
