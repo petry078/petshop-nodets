@@ -1,6 +1,6 @@
 # Projeto Petshop
 
-Fullstack petshop application with Node.js, Express.js, Mustache.js (mustache-express), TypeScript, HTML, and CSS.
+Fullstack petshop application with Node.js, Express.js, Mustache.js (mustache-express), TypeScript, HTML, CSS and clean architecture.
 
 ![](/proof.png)
 
