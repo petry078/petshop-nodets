@@ -1,4 +1,6 @@
-# Projeto Petshop 
+# Projeto Petshop
+
+Fullstack petshop application with Node.js, Express.js, Mustache.js (mustache-express), TypeScript, HTML, and CSS.
 
 ![](/proof.png)
 
